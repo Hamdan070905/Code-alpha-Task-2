@@ -1,1 +1,2 @@
-# Code-alpha-Task-2
+Code-alpha-Task-2  
+     Disease Prediction from Medical Data
